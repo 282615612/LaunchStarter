@@ -1,0 +1,3 @@
+include ':launchstarter'
+include ':app'
+rootProject.name = "LaunchStarter"
